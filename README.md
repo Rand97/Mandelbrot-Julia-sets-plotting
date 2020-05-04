@@ -24,8 +24,8 @@ For the Julia set the user should give 0 or 2 arguments. If there are no argumen
     	</tr>
     	<tr>
     		<th>Region of interest</th>
-    		<th>-1&gt;real&lt;1
--1&gt;complex&lt;1</th>
+    		<th>-1&lt;real&lt;1
+-1&lt;complex&lt;1</th>
     		<th>Always use default for Julia</th>
     	</tr>
     	<tr>
