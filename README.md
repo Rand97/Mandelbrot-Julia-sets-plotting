@@ -27,8 +27,8 @@
         </ul>
         <table>
             <tr>
-                <th><img src="Screenshot1.png" alt="loading screenshot" width= "700" > </th>   
-                <th><img src="Screenshot2.png" alt="loading screenshot" width= "700" > </th>  
+                <th><img src="Screenshots/Screenshot1.png" alt="loading screenshot" width= "700" > </th>   
+                <th><img src="Screenshots/Screenshot2.png" alt="loading screenshot" width= "700" > </th>  
             </tr>
         </table> 
 </body>
