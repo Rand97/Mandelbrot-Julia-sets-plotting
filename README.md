@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Mandelbrot/Julia</title>
 	<h1>Mandelbrot &amp; Julia Set Plotting</h1>
 </head>
 <body>
