@@ -16,6 +16,29 @@ then use the default values as specified in the table below. 4 arguments will be
 the complex plane and the 5th one is the number of iterations to do for a point.
 For the Julia set the user should give 0 or 2 arguments. If there are no arguments one should use the
 		default arguments and 2 arguments will be the real and complex part for C. </p>
+	 <table style="width:100%">
+    	<tr>
+    		<th>Item</th>
+    		<th>Default value</th>
+    		<th>Note</th>
+    	</tr>
+    	<tr>
+    		<th>Region of interest</th>
+    		<th>-1&gt;real&lt;1
+-1&gt;complex&lt;1</th>
+    		<th>Always use default for Julia</th>
+    	</tr>
+    	<tr>
+    		<th>Number of iterations</th>
+    		<th>1000</th>
+    		<th></th>
+    	</tr>
+    	<tr>
+    		<th>C</th>
+    		<th>-0.4+0.6i</th>
+    		<th>Only for Julia set</th>
+    	</tr>
+    </table>
     <h2>How do I run this?</h2>
         <ul>
         <li>Clone or download this repository</li>
