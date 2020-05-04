@@ -31,5 +31,13 @@
                 <th><img src="Screenshots/Screenshot from 2020-05-05 02-03-37.png" alt="loading screenshot" width= "700" > </th>  
             </tr>
         </table> 
+	<h2>Program Description</h2>
+	<p>Your program should accept arguments; at least one which would specify what set to plot. If
+the set selected is Mandelbrot the user should give either 0, 4 or 5 arguments. If there are 0 arguments
+then use the default values as specified in the table below. 4 arguments will be the region of interest in
+the complex plane and the 5th one is the number of iterations to do for a point.
+For the Julia set the user should give 0 or 2 arguments. If there are no arguments one should use the
+		default arguments and 2 arguments will be the real and complex part for C. </p>
+	
 </body>
 </html>
