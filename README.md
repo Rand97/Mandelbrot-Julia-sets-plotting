@@ -9,6 +9,13 @@
         <li>This repository is for plotting Mandelbrot fractal set &amp; Julia fractal set</li>
         <li>System requirements : Java 8</li>
         </ul>
+	<h2>Program Description</h2>
+	<p>Your program should accept arguments; at least one which would specify what set to plot. If
+the set selected is Mandelbrot the user should give either 0, 4 or 5 arguments. If there are 0 arguments
+then use the default values as specified in the table below. 4 arguments will be the region of interest in
+the complex plane and the 5th one is the number of iterations to do for a point.
+For the Julia set the user should give 0 or 2 arguments. If there are no arguments one should use the
+		default arguments and 2 arguments will be the real and complex part for C. </p>
     <h2>How do I run this?</h2>
         <ul>
         <li>Clone or download this repository</li>
