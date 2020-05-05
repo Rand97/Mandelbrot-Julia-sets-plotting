@@ -60,6 +60,10 @@ For the Julia set the user should give 0 or 2 arguments. If there are no argumen
                 <th><img src="Screenshots/Screenshot from 2020-05-05 02-03-22.png" alt="loading screenshot" width= "700" >       </th>   
                 <th><img src="Screenshots/Screenshot from 2020-05-05 02-03-37.png" alt="loading screenshot" width= "700" > </th>  
             </tr>
+	    <tr>
+		    <th>Mandelbrot Set </th>
+		    <th>Julia Set</th>
+	    </tr>		    
         </table> 
 </body>
 </html>
